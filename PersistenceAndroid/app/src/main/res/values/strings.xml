@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Persistence</string>
+    <string name="activity_main_title">Persistence - VMA TH Köln</string>
+    <string name="filesystemdemo_title">File System - VMA TH Köln</string>
+    <string name="sqlitedemo_title">SQLite - VMA TH Köln</string>
+    <string name="contentproviderdemo_title">Content Provider - VMA TH Köln</string>
+    <string name="sharedpreferencedemo_title">Shared Preferences - VMA TH Köln</string>
+    <string name="preferenceactivitydemo_title">Preference Activity - VMA TH Köln</string>
+    <string name="title_activity_user_of_prefences_demo">UserOfPreferencesDemo</string>
+
+    <string name="action_settings">Settings</string>
+    
+</resources>

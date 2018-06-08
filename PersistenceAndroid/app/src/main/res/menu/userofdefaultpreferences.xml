@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.fhkoeln.cvogt.android.persistence.UserOfDefaultPreferencesDemo">
+
+    <item
+        android:id="@+id/showpreferences"
+        android:icon="@drawable/ic_action_settings"
+        android:title="Preferences"
+        android:showAsAction="always" />
+
+</menu>

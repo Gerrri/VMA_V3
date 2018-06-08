@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="liste">
+        <item>Item 0</item>
+        <item>Item 1</item>
+        <item>Item 2</item>
+    </string-array>
+    <string-array name="listenwerte">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="activity_main_title">Persistence - VMA TH Köln</string>
+    <string name="app_name">Persistence</string>
+    <string name="contentproviderdemo_title">Content Provider - VMA TH Köln</string>
+    <string name="filesystemdemo_title">File System - VMA TH Köln</string>
+    <string name="preferenceactivitydemo_title">Preference Activity - VMA TH Köln</string>
+    <string name="sharedpreferencedemo_title">Shared Preferences - VMA TH Köln</string>
+    <string name="sqlitedemo_title">SQLite - VMA TH Köln</string>
+    <string name="title_activity_user_of_prefences_demo">UserOfPreferencesDemo</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+</resources>

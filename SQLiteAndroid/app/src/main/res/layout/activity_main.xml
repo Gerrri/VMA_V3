@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <EditText
+        android:id="@+id/sucheingabe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="12pt"
+        />
+
+    <TextView
+        android:id="@+id/lang_from"
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:text="Deutsch"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_lang_switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="wechseln" />
+
+    <TextView
+        android:id="@+id/lang_to"
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:text="Englisch"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/suchbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Suche"
+        android:textSize="12pt"
+        android:onClick="dbSuche"
+        />
+    <EditText
+        android:id="@+id/suchergebnis"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:textSize="12pt"
+        android:scrollbars="vertical|horizontal"
+        android:scrollHorizontally="true"
+        />
+</LinearLayout>

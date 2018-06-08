@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLiteAndroid</string>
+    <string name="Lang_from">Deutsch</string>
+    <string name="Lang_to">Englisch</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:key="main_preferences" >
+  <CheckBoxPreference 
+    android:key="checkboxpref" 
+    android:title="CheckBoxPreference" 
+    android:summary="kennt die Zustände on und off"/>
+  <ListPreference
+    android:key="listpref" 
+    android:title="ListPreference" 
+    android:summary="ermöglicht die Auswahl aus einer Liste"
+    android:entries="@array/liste"
+    android:entryValues="@array/listenwerte"
+    android:defaultValue="1"/>
+  <EditTextPreference
+    android:key="edittextpref" 
+    android:title="EditTextPreference" 
+    android:summary="ermöglicht die Eingabe eines Texts"
+    android:defaultValue="Default Text"/>
+</PreferenceScreen>
