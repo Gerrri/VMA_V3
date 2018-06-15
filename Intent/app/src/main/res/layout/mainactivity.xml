@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/Powerusagebutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Power Usage"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/Eingabefeld"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:inputType="phone" />
+
+    <Button
+        android:id="@+id/Dialbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Dial"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/Sendbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Send Mail"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/Audiobutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Audio"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/Anotheractivitybutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Another Activity"
+        android:textSize="20sp" />
+
+</LinearLayout>

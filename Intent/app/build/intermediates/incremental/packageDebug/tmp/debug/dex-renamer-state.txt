@@ -1,0 +1,4 @@
+#Fri Jun 15 10:01:45 CEST 2018
+base.0=D\:\\Data\\Coding\\AndroidStudio\\VMA_V3\\Intent\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:11:5-30:23
+	android:label
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:13:9-50
+	android:allowBackup
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:15:9-40
+activity#de.fhkoeln.cvogt.android.intents.MainActivity
+ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:17:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:18:13-21:29
+	android:label
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:18:28-60
+action#android.intent.action.MAIN
+ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:20:27-74
+activity#de.fhkoeln.cvogt.android.intents.ReceivingActivity
+ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:label
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:24:19-67
+	android:name
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:23:19-52
+intent-filter#action:name:de.fhkoeln.cvogt.android.intents.WER_IMMER_DAS_WILL+category:name:android.intent.category.DEFAULT
+ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:25:13-28:30
+action#de.fhkoeln.cvogt.android.intents.WER_IMMER_DAS_WILL
+ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:26:17-94
+	android:name
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:26:25-91
+category#android.intent.category.DEFAULT
+ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from D:\Data\Coding\AndroidStudio\VMA_V3\Intent\app\src\main\AndroidManifest.xml:27:27-73

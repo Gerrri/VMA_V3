@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intents</string>
+    <string name="main_activity_title">Intents - VMA TH Köln</string>
+    <string name="receiving_activity_title">Receiving Activity - VMA TH Köln</string>
+    
+</resources>
